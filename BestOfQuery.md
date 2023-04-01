@@ -1,0 +1,1 @@
+Pursuit the best readability and efficiency
