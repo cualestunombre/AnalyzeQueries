@@ -1,0 +1,13 @@
+** CTE 쿼리
+WITH mng AS(
+    SELECT .............
+)
+밑에서 마음대로 사용가능
+
+
+** CTE 재귀로 연속적인 로우 생성하기
+WITH RECURSIVE cte AS
+(SELECT 1 as N
+UNION
+SELECT N+1 FROM CTE WHERE N<5
+)
