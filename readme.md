@@ -21,7 +21,9 @@ CTE 재귀 쿼리
 CTE 
 <br>
 5. 계층형 쿼리
+<br>
 6. ConcurrencyHandle(동시성 제어 쿼리)
+<br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157340">
 7. 조건에 맞는 사용자 정보 조회하기 - 프로그래머스
 </a>
