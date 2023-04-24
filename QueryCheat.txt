@@ -11,3 +11,7 @@ WITH RECURSIVE cte AS
 UNION
 SELECT N+1 FROM CTE WHERE N<5
 )
+
+**윈도우 함수 사용하기
+DENSE_RANK() OVER (PARTITION BY d.id ORDER BY e.salary DESC )
+d.id를 기준으로 잡고 e.salary를 정렬해서 순서 반환

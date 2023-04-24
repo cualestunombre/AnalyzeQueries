@@ -39,3 +39,11 @@ CTE
 CTE, UNION
 <br>
 <br>
+<a href="https://leetcode.com/problems/department-top-three-salaries/description/">
+8. Department Top Three Salaries - leetcode
+</a>
+<br>
+윈도우 함수(ROW_NUMBER,RANK,DENSE_RANK 차이)
+comment : 꼭 다시 풀어볼 만함
+<br>
+<br>
