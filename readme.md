@@ -46,3 +46,11 @@ comment : CTE, UNION
 comment : 윈도우 함수(ROW_NUMBER,RANK,DENSE_RANK 차이) 꼭 다시 풀어볼 만함
 <br>
 <br>
+<a href="https://leetcode.com/problems/trips-and-users/">
+9. Trips-And-Users - leetcode
+</a>
+<br>
+comment : CTE, GROUP BY --> 복잡한 group by 처리
+<br>
+<br>
+
