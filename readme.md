@@ -60,4 +60,10 @@ comment : CTE, GROUP BY --> 복잡한 group by 처리
 comment : 윈도우 함수 - 꼭 다시 풀어볼 것
 <br>
 <br>
-
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856#qna">
+11.  저자 별 카테고리 별 매출액 집계하기
+</a>
+<br>
+comment : GROUP BY or 윈도우 집계함수
+<br>
+<br>
