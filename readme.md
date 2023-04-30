@@ -67,3 +67,11 @@ comment : 윈도우 함수 - 꼭 다시 풀어볼 것
 comment : GROUP BY or 윈도우 집계함수
 <br>
 <br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532#qna">
+12. 년, 월, 성별 별 상품 구매 회원 수 구하기
+</a>
+<br>
+comment : GROUP BY or 윈도우 집계함수
+<br>
+<br>
+
