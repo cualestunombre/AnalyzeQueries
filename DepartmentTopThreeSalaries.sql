@@ -7,3 +7,5 @@ Department, Employee, Salary FROM
 FROM Employee AS e
 INNER JOIN Department AS d ON e.departmentId = d.id
 ) AS T WHERE ran<=3 
+
+
