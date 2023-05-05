@@ -81,5 +81,11 @@ comment : GROUP BY or 윈도우 집계함수
 comment : GROUP BY, CTE, 단건 데이터 다루기
 <br>
 <br>
-
+<a href="https://leetcode.com/problems/investments-in-2016/description/">
+14. investments in 2016
+</a>
+<br>
+comment : WHERE Exists 쿼리 (자기 테이블과 비교)
+<br>
+<br>
 
