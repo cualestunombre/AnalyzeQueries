@@ -74,4 +74,12 @@ comment : GROUP BY or 윈도우 집계함수
 comment : GROUP BY or 윈도우 집계함수
 <br>
 <br>
+<a href="https://leetcode.com/problems/game-play-analysis-iv/">
+13. game-play-analysis-iv
+</a>
+<br>
+comment : GROUP BY, CTE, 단건 데이터 다루기
+<br>
+<br>
+
 
