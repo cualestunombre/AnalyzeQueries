@@ -88,4 +88,11 @@ comment : GROUP BY, CTE, 단건 데이터 다루기
 comment : WHERE Exists 쿼리 (자기 테이블과 비교)
 <br>
 <br>
+<a href="https://leetcode.com/problems/product-sales-analysis-iii/description/">
+15. product-sales-analysis-iii
+</a>
+<br>
+comment : WHERE NOT EXISTS 쿼리 (자기 테이블과 비교)
+<br>
+<br>
 
